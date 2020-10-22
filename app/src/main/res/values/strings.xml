@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">E_BookServer</string>
+
+    <string name="writr_sanaullah">শাইখ সানাউল্লাহ </string>
+    <string name="sana_book1">ইসলামী আক্বীদাহ ও মানব প্রকৃতি</string>
+
+    <string name="writer_albudair">সালাহ ইবন মুহাম্মদ আল-বুদাইর </string>
+    <string name="albudair_book1">চার ইমামের আকীদাহ </string>
+
+
+
+    <string name="writr_taimia">আহমদ ইবন আব্দুল হালীম ইবন তাইমিয়্যাহ</string>
+    <string name="taimia_bk1">মহা উপদেশ </string>
+
+    <string name="writr_ohab">মুহাম্মাদ ইবন আব্দুল ওয়াহহাব</string>
+    <string name="ohab_bk1">তাওহীদ ও তার প্রমাণাদি (৫০টি প্রশ্নোত্তর)</string>
+    <string name="ohab_bk2">তিনটি মূলনীতি ও তার প্রমাণপঞ্জি </string>
+    <string name="ohab_bk3">চারটি নীতি </string>
+    <string name="ohab_bk4">কিতাবুত তাওহীদ </string>
+
+
+    <string name="writr_tahaoaki">ইমাম ত্বাহাওয়ী </string>
+    <string name="tahaoaki_bk1">আক্বীদাহ আত ত্বাহাবিয়া (সংক্ষিপ্ত ব্যাখ্যাসহ)</string>
+
+    <string name="writr_faozan">শাইখ সালিহ আল-ফাওযান </string>
+    <string name="faozan_bk1">আক্বীদাতুত তাওহীদ (তাওহীদ পরিচিতি) </string>
+
+    <string name="writr_a_kader">মো: আব্দুল কাদের </string>
+    <string name="kader_bk1">আন্তঃধর্মীয় সংলাপ: ইসলামী দৃষ্টিভঙ্গি </string>
+
+    <string name="writr_bazz">আযীয ইবন আবদুল্লাহ ইবন বায </string>
+    <string name="bazz_bk1">সঠিক আক্বীদাহ-বিশ্বাস ও যা এর পরিপন্থি </string>
+    <string name="bazz_bk2">অলী আওলিয়াদের অসীলা গ্রহণ : ইসলামি দৃষ্টিকোণ </string>
+    <string name="bazz_bk3">জাদুকর্ম, জ্যোতিষ ও দৈবকর্ম এবং এতদসংক্রান্ত অন্যান্য বিষয় সম্পর্কে ইসলামের বিধান </string>
+    <string name="bazz_bk4">মুসলিম উম্মতের সর্বসাধারণের জন্য গুরুত্বপূর্ণ দার্‌স-সমূহ </string>
+    <string name="bazz_bk5">কালেমা ’লা ইলাহা ইল্লাল্লাহ’ </string>
+
+    <string name="writr_nasir">মুহাম্মদ নাসিরুদ্দীন আল-আলবানী </string>
+    <string name="nasir_bk1">ইসলাম প্রচারক ভাই! প্রথমে তাওহীদের দাওয়াত দিন </string>
+
+    <string name="writr_usaimi">মুহাম্মাদ ইবন সালেহ আল-উসাইমীন </string>
+    <string name="usaimi_bk1">আহলুস সুন্নাত ওয়াল জামা‘আতের আকীদা </string>
+    <string name="usaimi_bk2">ঈমানের মূলনীতিসমূহের ব্যাখ্যা </string>
+    
+    <string name="writr_olyani">শাইখ আলী আল- উলইয়ানী </string>
+    <string name="olyani_bk1">আক্বীদার মানদণ্ডে তাবীজ </string>
+
+    <string name="writr_hazemi">শাইখ ইবরাহীম আল-হাযেমী </string>
+    <string name="hazemi_bk1">শাফা‘আত এবং শাফা‘আতকারীদের বর্ণনা </string>
+
+    <string name="questn1">প্রশ্নোত্তরে সহজ তাওহীদ শিক্ষা </string>
+    <string name="qust_writr">একদল বিজ্ঞ আলিম</string>
+
+    <string name="writr_lotif">আযীয ইবন মুহাম্মদ আলে আব্দুল লাতীফ </string>
+    <string name="lotif_bk1">শিশুদের তাওহীদ শিক্ষা </string>
+    
+    <string name="writr_kazi">শাইখ আহমাদ আল-কাযী </string>
+    <string name="kazi_bk1">কুরআন ও হাদীসের আলোকে সহজ আক্বীদাহ </string>
+</resources>

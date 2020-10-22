@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/cardview_id"
+    android:clickable="true"
+    android:foreground="?android:attr/selectableItemBackground"
+    android:layout_width="120dp"
+    android:layout_height="190dp"
+    xmlns:cardview="http://schemas.android.com/apk/res-auto"
+    android:padding="10dp"
+    android:layout_margin="10dp"
+    cardview:cardCornerRadius="10dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/book_img_id"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:padding="5dp"
+            android:layout_margin="5dp"
+            android:scaleType="centerCrop" />
+
+        <TextView
+            android:id="@+id/book_title_id"
+            android:textColor="#2d2d2d"
+            android:textSize="13sp"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Book Title"/>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
+
+
+<!--
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.cardview.widget.CardView
+        app:cardElevation="5dp"
+        app:cardCornerRadius="5dp"
+        app:cardUseCompatPadding="true"
+        android:layout_width="190dp"
+        android:layout_marginLeft="10dp"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:background="#FCE0E0"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/IV"
+            android:src="@drawable/aa"/>
+
+        <TextView
+            android:id="@+id/TV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PDF FILE"
+            android:textStyle="bold"
+            android:layout_gravity="bottom|center"
+            android:textColor="#000"
+            android:textSize="16sp"/>
+    </androidx.cardview.widget.CardView>
+</RelativeLayout>-->
